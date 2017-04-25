@@ -1,4 +1,4 @@
-# _{My First Webpage}_
+# _My First Webpage_
 
 #### _This is my first webpage, and a list of my favorite things., 4/24/17_
 
@@ -28,4 +28,4 @@ I used HTML to create this project.
 
 ### License
 
-Copyright (c) 2015 **_{JS&TS LLC}_**
+Copyright (c) 2015 **_JS&TS LLC_**
