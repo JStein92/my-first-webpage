@@ -1,0 +1,18 @@
+h1 {
+  color: red;
+}
+
+li{
+  text-align: center;
+  font-family: cursive;
+  font-weight:  bold;
+  line-height: normal;
+}
+
+body {
+  background-color: grey;
+    font-family: fantasy;
+}
+a {
+  text-decoration: none;
+}
